@@ -59,6 +59,10 @@ body {
     justify-content: center;
 }
 
+.menu-offer .menu li {
+    cursor: pointer;
+}
+
 .menu-button {
     z-index: 10;
     text-align: end;
